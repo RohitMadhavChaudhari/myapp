@@ -1,4 +1,3 @@
-print("welcome to python")
 print("jay ho")
 a=10
 b=30
